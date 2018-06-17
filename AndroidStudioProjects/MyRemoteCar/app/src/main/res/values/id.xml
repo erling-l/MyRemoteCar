@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="angleTextView" type="id" />
+    <item name="powerTextView" type="id" />
+    <item name="directionTextView" type="id" />
+    <item name="joystickView" type="id" />
+</resources>
